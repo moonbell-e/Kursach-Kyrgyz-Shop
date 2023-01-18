@@ -1,0 +1,2 @@
+# KursachKyrgyzShop
+ Project for uni
