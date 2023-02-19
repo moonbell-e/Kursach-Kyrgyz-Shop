@@ -1,15 +1,15 @@
 # Online Shop of Kyrgyz Goods
 
 1. [English](#en)
-  - [Catalog](#catalog)
-  - [Order](#order)
-  - [Registration and authorization](#registration-and-authorization)
-  - [Search](#search)
+    - [Catalog](#catalog)
+    - [Order](#order)
+    - [Registration and authorization](#registration-and-authorization)
+    - [Search](#search)
 3. [Russian](#rus)
-  - [Каталог](#каталог)
-  - [Заказ](#заказ)
-  - [Регистрация и авторизация](#регистрация-и-авторизация)
-  - [Поиск](#поиск)
+    - [Каталог](#каталог)
+    - [Заказ](#заказ)
+    - [Регистрация и авторизация](#регистрация-и-авторизация)
+    - [Поиск](#поиск)
 5. [Как выглядит проект](#как-выглядит-проект)
 
 ## EN
