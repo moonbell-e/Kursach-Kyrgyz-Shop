@@ -5,10 +5,10 @@ Once upon a time, someone i know asked me to create a website. They wanted to se
 ### Catalog
 
 The store offers products of the following categories for sale:
-— dried fruits;
-— nuts;
-— drinks;
-— chocolate;
+- dried fruits;
+- nuts;
+- drinks;
+- chocolate;
 
 The user can add products to the cart from the catalog. They can enter the quantity of the product.
 
@@ -33,10 +33,10 @@ The user can also search on the main page or in the catalog by the name of the p
 ### Каталог
 
 В магазине будут представлены для продажи товары следующих категорий:
-— сухофрукты;
-— орехи;
-— напитки;
-— шоколад;
+- сухофрукты;
+- орехи;
+- напитки;
+- шоколад;
 
 Пользователь может добавить товары в корзину из каталога. Он может ввести количество товара.
 
