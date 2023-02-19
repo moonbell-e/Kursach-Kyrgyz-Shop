@@ -1,8 +1,8 @@
 # Online Shop of Kyrgyz Goods
 
-[English](#EN)
-[Russian](#RUS)
-[Как выглядит проект](#Image and GIF)
+1. [English](#EN)
+2. [Russian](#RUS)
+3. [Как выглядит проект](#Image)
 
 ## EN <a name="EN"></a> 
 Once upon a time, someone i know asked me to create a website. They wanted to sell goods that were brought from Kyrgyzstan. I refused due to lack of time. Then the university requested a coursework as website, and I decided to make this project. It's an online shop of Kyrgyz goods.
@@ -62,7 +62,7 @@ The user can also search on the main page or in the catalog by the name of the p
 
 Также пользователь может совершить поиск на главной странице или в каталоге по названию товара.
 
-### <a name="Image and GIF"></a> 
+### <a name="Image"></a> 
 ![Screenshot_1](https://user-images.githubusercontent.com/71431806/219953161-41e7a7ef-33a7-4281-a8b6-84ba746f4b99.png)
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/71431806/219953735-74ad7f68-d8b5-4bf1-b2ab-c82614a032f3.gif)
