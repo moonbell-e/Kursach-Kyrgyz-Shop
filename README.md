@@ -15,9 +15,6 @@
 ## EN
 Once upon a time, someone i know asked me to create a website. They wanted to sell goods that were brought from Kyrgyzstan. I refused due to lack of time. Then the university requested a coursework as website, and I decided to make this project. It's an online shop of Kyrgyz goods.
 
-## Header
-
-
 ### Catalog
 
 The store offers products of the following categories for sale:
